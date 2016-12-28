@@ -1,0 +1,16 @@
+help
+info
+tree
+ls
+cat TEST1
+cd DIR1
+tree
+cd D1
+ls
+cd ..
+cd
+cd DIR2
+cd -
+cd -
+tree
+quit
