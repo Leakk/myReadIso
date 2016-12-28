@@ -36,6 +36,7 @@ or
 - **cd** go back to root dir
 - **cd ..**  go to the parent dir
 - **cd -**  go to the prevese dir
+
 **tree**  display the tree of the current directory<br>
 **get** copy file to local directory<br>
 **cat** display file content<br>
