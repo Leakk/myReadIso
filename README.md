@@ -29,14 +29,14 @@ or
 
 ### COMMANDS
 
-**help** display command help
-**info** display volume info
-**ls** display directory content
-**cd** change current directory
+**help** display command help<br>
+**info** display volume info<br>
+**ls** display directory content<br>
+**cd** change current directory<br>
 - **cd** go back to root dir
 - **cd ..**  go to the parent dir
 - **cd -**  go to the prevese dir
-**tree**  display the tree of the current directory
-**get** copy file to local directory
-**cat** display file content
+**tree**  display the tree of the current directory<br>
+**get** copy file to local directory<br>
+**cat** display file content<br>
 **quit** program exit
